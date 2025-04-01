@@ -2151,7 +2151,7 @@
         "fs-extra": "^4.0.3",
         "glob": "^7.1.2",
         "iconv-lite": "^0.6.3",
-        "inversify": "^6.0.1",
+        "inversify": "^6.2.2",
         "isomorphic-ws": "^4.0.1",
         "jquery": "^3.6.0",
         "jsonc-parser": "^2.0.3",
